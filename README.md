@@ -1,7 +1,7 @@
 # ¡Saludos! Soy Jovany Zapata
 
 ## ¿Quién soy?
-Soy un apasionado de la tecnología y cómo ha transformado el mundo, y cómo continuará haciéndolo. Me gusta el diseño de bases de datos y el desarrollo Back-End. Una de mis mejores experiencias fue crear desde cero el área de tecnología para una compañía, donde aprendí sobre infraestructura, equipos, servidores y la aplicación de estándares en la prestación de servicios TICs.
+Soy un apasionado de la tecnología y su capacidad para transformar el mundo, con la firme convicción de que continuará desempeñando un papel crucial en el futuro. Me especializo en el diseño de bases de datos y el desarrollo Back-End. Una de mis experiencias más enriquecedoras fue crear desde cero el área de tecnología para una empresa, donde adquirí un profundo conocimiento en infraestructura, gestión de equipos y servidores, así como en la aplicación de estándares en la prestación de servicios TIC. Además, tuve la oportunidad de desarrollar software utilizando tecnologías Microsoft.
 
 ## ¿Qué hago?
 Actualmente, me encuentro actualizando mis conocimientos y adquiriendo nuevos, de la mano de **Henry** y **ONE**.
