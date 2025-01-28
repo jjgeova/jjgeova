@@ -1,17 +1,22 @@
 
-<p align="right"><img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Datos-Data%20Science-blue?style=flat-square" alt="Data Science Icon" height="25" width="250"/></p>
-<p align="right"><img src="https://img.shields.io/badge/Desarrollo%20Back%20End-Back%20End-blue?style=flat-square" alt="Back-End Icon" height="24" width="250"/></p>
+<p align="right">
+  <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Datos-Data%20Science-blue?style=flat-square" alt="Data Science Icon" height="25" width="250"/>
+  <img src="https://img.shields.io/badge/Desarrollo%20Back%20End-Back%20End-blue?style=flat-square" alt="Back-End Icon" height="25" width="250"/>
+  <a href="https://www.example.com">
+    <img src="https://img.shields.io/badge/Machine%20Learning-ML-blue?style=flat-square&logo=python&logoColor=ffffff" alt="Machine Learning Icon" height="25" width="250"/>
+  </a>
+</p>
 
 # ¡Saludos! Soy Jovany Zapata 
 
 ## ![Persona Icon](https://img.shields.io/badge/Persona-Quien%20Soy-blue?style=flat-square&logo=face&logoColor=ffffff)
-Soy un apasionado de la tecnología y su capacidad para transformar el mundo, con la firme convicción de que continuará desempeñando un papel crucial en el futuro. Me especializo en el diseño de bases de datos y el desarrollo Back-End. Una de mis experiencias más enriquecedoras fue crear desde cero el área de tecnología para una empresa, donde adquirí un profundo conocimiento en infraestructura, gestión de equipos y servidores, así como en la aplicación de estándares en la prestación de servicios TIC. Además, tuve la oportunidad de desarrollar software utilizando tecnologías Microsoft.
+Soy un apasionado de la tecnología y de su poder transformador en el mundo, con la convicción de que seguirá siendo un motor clave en el futuro. Me especializo en el diseño de bases de datos y en el desarrollo Back-End. Una de mis experiencias más enriquecedoras fue crear desde cero el área de tecnología de una empresa, donde adquirí valiosos conocimientos en infraestructura, gestión de equipos y servidores, así como en la implementación de estándares en la prestación de servicios TIC. Además, tuve la oportunidad de desarrollar software con diversas tecnologías, optimizando procesos internos y contribuyendo a la eficiencia en varias áreas de la organización.
 
 ## ![Work Icon](https://img.shields.io/badge/Trabajo-Que%20Hago-orange?style=flat-square&logo=briefcase&logoColor=ffffff) 
-Actualmente, me encuentro actualizando mis conocimientos y adquiriendo nuevos, de la mano de **Henry** con Data Science y **ONE** con Desarrollo Back-End.
+Actualmente, me encuentro actualizando mis conocimientos y adquiriendo nuevos, de la mano de las mejores academias **Henry** con Data Science y **ONE** con Desarrollo Back-End.
 
 ### ![Goal Icon](https://img.shields.io/badge/Objetivo-A%20Donde%20Quiero%20Llegar-green?style=flat-square&logo=target&logoColor=ffffff)
-Mi propósito es ayudar a dar valor a los datos, estructurarlos y validarlos para elevar su calidad. De esta manera, permitir a directivos y/o gerentes tomar las mejores decisiones en sus estrategias empresariales. También quiero contribuir a la optimización de los procesos internos de sus dependencias, apuntando siempre al logro de su visión y misión.
+Mi propósito es aportar valor a los datos, estructurándolos y validándolos para mejorar su calidad. A través del uso de herramientas de análisis, busco facilitar a directivos y gerentes la toma de decisiones informadas para optimizar sus estrategias empresariales. Además, deseo contribuir a la mejora de los procesos internos de las organizaciones, siempre enfocado en alcanzar su visión y misión.
 
 ## ¿Qué tecnologías uso?
 
@@ -32,6 +37,9 @@ Mi propósito es ayudar a dar valor a los datos, estructurarlos y validarlos par
 ### Desarrollo Web
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+
+### Machine Learning
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.example.com)  
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZapataJJ-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/zapatajj/)
