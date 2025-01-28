@@ -1,4 +1,8 @@
-# ¡Saludos! Soy Jovany Zapata
+
+<p align="right"><img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Datos-Data%20Science-blue?style=flat-square" alt="Data Science Icon" height="25" width="250"/></p>
+<p align="right"><img src="https://img.shields.io/badge/Desarrollo%20Back%20End-Back%20End-blue?style=flat-square" alt="Back-End Icon" height="24" width="250"/></p>
+
+# ¡Saludos! Soy Jovany Zapata 
 
 ## ![Persona Icon](https://img.shields.io/badge/Persona-Quien%20Soy-blue?style=flat-square&logo=face&logoColor=ffffff)
 Soy un apasionado de la tecnología y su capacidad para transformar el mundo, con la firme convicción de que continuará desempeñando un papel crucial en el futuro. Me especializo en el diseño de bases de datos y el desarrollo Back-End. Una de mis experiencias más enriquecedoras fue crear desde cero el área de tecnología para una empresa, donde adquirí un profundo conocimiento en infraestructura, gestión de equipos y servidores, así como en la aplicación de estándares en la prestación de servicios TIC. Además, tuve la oportunidad de desarrollar software utilizando tecnologías Microsoft.
@@ -33,5 +37,4 @@ Mi propósito es ayudar a dar valor a los datos, estructurarlos y validarlos par
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZapataJJ-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/zapatajj/)
 [![Email](https://img.shields.io/badge/Email-jyzapata%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:jyzapata@gmail.com)
 
-Sé que puedo aportar **significativamente** a los proyectos que transformarán procesos y facilitarán la gestión de los dos principales activos del mundo empresarial, **el recurso humano** y **los datos**.
-
+---
